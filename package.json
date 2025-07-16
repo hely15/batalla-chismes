@@ -1,0 +1,16 @@
+{
+  "name": "batalla-chismes",
+  "version": "1.0.0",
+  "description": "Chismes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Chismes",
+    "Batallas"
+  ],
+  "author": "Hely Santiago Diaz - David Alberto Medina",
+  "license": "ISC"
+}
